@@ -15,7 +15,7 @@
 {
    [super drawRect:rect];
    
-   UIImage *image = [UIImage imageNamed: @"navbar.png"];
+   UIImage *image = [UIImage imageNamed: @"navbar-with-title.png"];
    [image drawInRect:CGRectMake(0, 0, self.frame.size.width, self.frame.size.height)];
 }
 

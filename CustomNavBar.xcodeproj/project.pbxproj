@@ -21,6 +21,7 @@
 		681065A2123B7004005EF8CD /* AnotherView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 681065A1123B7004005EF8CD /* AnotherView.xib */; };
 		681065A7123B7068005EF8CD /* AnotherViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 681065A6123B7068005EF8CD /* AnotherViewController.m */; };
 		6810660A123B7551005EF8CD /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 68106609123B7551005EF8CD /* README.md */; };
+		68106613123B7970005EF8CD /* navbar-with-title.png in Resources */ = {isa = PBXBuildFile; fileRef = 68106612123B7970005EF8CD /* navbar-with-title.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -45,6 +46,7 @@
 		681065A5123B7068005EF8CD /* AnotherViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnotherViewController.h; sourceTree = "<group>"; };
 		681065A6123B7068005EF8CD /* AnotherViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnotherViewController.m; sourceTree = "<group>"; };
 		68106609123B7551005EF8CD /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.md; sourceTree = "<group>"; };
+		68106612123B7970005EF8CD /* navbar-with-title.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "navbar-with-title.png"; sourceTree = "<group>"; };
 		8D1107310486CEB800E47090 /* CustomNavBar-Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = "CustomNavBar-Info.plist"; plistStructureDefinitionIdentifier = "com.apple.xcode.plist.structure-definition.iphone.info-plist"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
@@ -117,6 +119,7 @@
 				681065A1123B7004005EF8CD /* AnotherView.xib */,
 				8D1107310486CEB800E47090 /* CustomNavBar-Info.plist */,
 				68106518123B6A81005EF8CD /* navbar.png */,
+				68106612123B7970005EF8CD /* navbar-with-title.png */,
 			);
 			name = Resources;
 			sourceTree = "<group>";
@@ -185,6 +188,7 @@
 				6810651A123B6A81005EF8CD /* navbar.png in Resources */,
 				681065A2123B7004005EF8CD /* AnotherView.xib in Resources */,
 				6810660A123B7551005EF8CD /* README.md in Resources */,
+				68106613123B7970005EF8CD /* navbar-with-title.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
